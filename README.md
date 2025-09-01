@@ -1,5 +1,3 @@
-Based on the provided files, here is a description of the project:
-
 This project is a web-based Task Management Application built using React.js. It features two distinct user roles: an Administrator and an Employee, each with a dedicated dashboard. The application uses a robust component-based architecture and leverages key React functionalities for a dynamic user experience.
 
 Core Features:
